@@ -1,0 +1,53 @@
+
+body {
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+
+header {
+     color: white; 
+  border-radius: 20px;
+    font-size: 15
+}
+
+nav ul {
+    list-style: none; 
+    padding: 5; 
+    text-align: left; 
+}
+
+nav ul li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: white; 
+    font-size: 20px; 
+  font-family: badang
+}
+
+h1 {
+  font-family: century gothic
+}
+
+body {
+    background-color: white;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+}
+
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/021/430/833/non_2x/abstract-colorful-dark-blue-and-purple-gradient-blurred-background-night-sky-gradient-blue-gradation-wallpaper-for-background-themes-abstract-background-in-purple-and-blue-tones-web-design-banner-vector.jpg');
+background-size: 100% 750px;
+  background-attachment: fixed;
+}
